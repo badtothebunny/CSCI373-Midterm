@@ -1,3 +1,6 @@
+//Written for midterm
+//Programmer: Badtothebunny
+
 #include <iostream>
 #include "MusicPlayer.h"
 int main(int argc, char** argv)
@@ -37,3 +40,4 @@ int main(int argc, char** argv)
 	cout<<"That concludes this test. Thank you for using my program."<<endl;
 	return 0;
 }
+
