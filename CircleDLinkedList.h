@@ -1,6 +1,6 @@
 //CircleDLinkedList Class Declaration section
 //This class is a circulary doubly linked list of the Song class element.
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #ifndef CIRCLEDLINKEDLIST_H
 #define CIRCLEDLINKEDLIST_H
@@ -25,3 +25,4 @@ class CircleDLinkedList
 };
 
 #endif
+
