@@ -1,5 +1,5 @@
 //Song Class Implementation section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #include "Song.h"
 
@@ -49,3 +49,4 @@ std::ostream& operator<<(std::ostream& outstream, const Song &temp)
         outstream<<"Song: "<<temp.getSongTitle()<<"\nSinger: "<<temp.getSingerName()<<endl;
         return outstream;
 }
+
