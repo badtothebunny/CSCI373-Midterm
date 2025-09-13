@@ -1,5 +1,5 @@
 //CircleDLinkedList Class Implementation section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #include "CircleDLinkedList.h"
 
@@ -95,3 +95,4 @@ void CircleDLinkedList::remove()
 	cursor = cursor->next;
 	delete temp;
 }
+
