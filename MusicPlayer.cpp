@@ -1,5 +1,5 @@
 //MusicPlayer Class Implementation section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #include "MusicPlayer.h"
 
@@ -67,3 +67,4 @@ void  MusicPlayer::print(bool parameter, int base)
 		return print(false, base);
 	}
 }
+
