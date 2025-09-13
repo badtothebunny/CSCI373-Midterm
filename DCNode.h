@@ -1,6 +1,6 @@
 //DCNode Class Declaration Section
 //Since this class is for Nodes, it will NOT have an implementation section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #ifndef DCNODE_H
 #define DCNODE_H
@@ -21,3 +21,4 @@ class DCNode
 };
 
 #endif
+
