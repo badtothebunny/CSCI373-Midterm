@@ -1,5 +1,5 @@
 //MusicPlayer Class Declaration section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #ifndef MUSICPLAYER_H
 #define MUSICPLAYER_H
@@ -24,3 +24,4 @@ class MusicPlayer
 };
 
 #endif
+
