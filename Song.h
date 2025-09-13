@@ -1,5 +1,5 @@
 //Song Class Declaration section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 
 #ifndef SONG_H
 #define SONG_H
@@ -25,3 +25,4 @@ class Song
 };
 
 #endif
+
